@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zeyad-ElNaggar
 - 👀 I’m interested in prgramming
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on problemsolving with C++ and Python
+- 💞️ I’m looking to collaborate on problem solving with C++ and Python
 - 📫 How to reach me emal: zeyad.alnaggar@gmail.com
 
 <!---
